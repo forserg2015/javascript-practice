@@ -10,6 +10,6 @@ let bidInt = 10n;
 
 console.log (word.length);
 console.log (number);
-console.log (BigInt);
+console.log (bidInt);
 console.log (typeof number);
 console.log (typeof bidInt);
